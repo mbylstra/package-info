@@ -11,7 +11,7 @@ elmPackageExample =
     """{
     "version": "2.0.0",
     "summary": "Types and helpers for dealing with the data found in an elm-package.json file",
-    "repository": "https://github.com/lukewestby/package-info.git",
+    "repository": "https://github.com/Janiczek/package-info.git",
     "license": "MIT",
     "source-directories": [
         "./src"
@@ -45,7 +45,7 @@ suite =
                                     , patch = 0
                                     }
                                 , summary = "Types and helpers for dealing with the data found in an elm-package.json file"
-                                , repository = "https://github.com/lukewestby/package-info.git"
+                                , repository = "https://github.com/Janiczek/package-info.git"
                                 , license = "MIT"
                                 , sourceDirectories = [ "./src" ]
                                 , exposedModules = [ "PackageInfo", "PackageInfo.Version", "PackageInfo.VersionRange" ]
